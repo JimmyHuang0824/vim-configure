@@ -1,8 +1,8 @@
 # vim-configure
-vim configure about c++, php, html, css
+vim configure about c++, php, html, css\n
 
 C++:
-a.vim:  use :A alter cpp and .h
+a.vim:  use :A alter cpp and .h\n
 stl support: when enter "." or "->" or "::"
 nerd_tree: ctrl+n
 taglist: Use F3
