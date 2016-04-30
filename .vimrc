@@ -12,10 +12,10 @@ syntax enable "
 
 "自动缩进"
 filetype plugin on
-set tabstop=2
-set softtabstop=2
+set tabstop=4
+set softtabstop=4
 
-set shiftwidth=2
+set shiftwidth=4
 set autoindent
 set cindent
 
@@ -83,6 +83,9 @@ inoremap , <ESC>a, <ESC>a
 
 "自动补全OmiciCppComplete"
 set nocp 
+filetype plugin indent on 
+
+"PHP补全
 
 set tags+=~/.vim/tags/cpp
 set tags+=./tags
