@@ -1,14 +1,14 @@
 # vim-configure
-vim configure about c++, php, html, css\n
+vim configure about c++, php, html, css<br>
 
-C++:
-a.vim:  use :A alter cpp and .h\n
-stl support: when enter "." or "->" or "::"
-nerd_tree: ctrl+n
-taglist: Use F3
+C++:<br>
+a.vim:  use :A alter cpp and .h<br>
+stl support: when enter "." or "->" or "::"<br>
+nerd_tree: ctrl+n<br>
+taglist: Use F3<br>
 
-php
-php-mannual: use shift+k
+php<br>
+php-mannual: use shift+k<br>
 
-html
-ement.vim: use “ctrl+y,” 
+html<br>
+ement.vim: use “ctrl+y,” <br>
